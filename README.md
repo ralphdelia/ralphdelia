@@ -3,7 +3,7 @@
 I'm Ralph, a software engineer with a passion for how technology can help us understand the visual world. I bring a proactive mindset to teams and thrive in environments where I can tackle challenges that foster growth and continuous learning. Recently, I have been particularly interested in image vector embeddings and their potential for organizing and exploring visual content.
 
 ### Frame
-I developed [Frame](https://www.frame-platform.com), an image search platform specifically designed for developers. It simplifies the entire embedding and image search process and deploys it directly to your AWS account. The platform provides image embedding and multimodal similarity search through a user-friendly API.
+I developed [Frame](https://www.frame-platform.com), an image search platform built for developers, offering image embedding and multimodal similarity search via an easy-to-use API. It abstracts the entire embedding and image search pipeline and deploys it to your AWS account.
 
 You can learn more about Frame [here](https://www.frame-platform.com/case-study/introduction/)!
 
