@@ -14,7 +14,7 @@ You can learn more about Frame [here](https://www.frame-platform.com/case-study/
 | Web Development            | React, Astro, Hono, Express, Node.js, HTML/CSS                                          |
 | Databases                  | PostgreSQL, MongoDB                                                                     |
 | Other Technologies    | OpenAPI, Zod, Nginx, Docker, Git/GitHub                                                 |
-| Cloud                  | AWS (CDK, Lambda, S3, API Gateway, SQS, RDS, Secrets Manager), Digital Ocean (Droplets) |
+| Cloud                  | AWS (CDK, Lambda, S3, API Gateway, SQS, RDS, Secrets Manager), Digital Ocean (Droplets), Cloudflare (Workers, D1, Vectorize) |
 
 ### How to reach me:
 You can contact me via email at ralphdelia1@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/ralph-delia-380194210/).
